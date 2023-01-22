@@ -13,7 +13,6 @@ int main()
 	while (txt[i] != '\0')
 	{
 		int adr = -1;
-		int adr2[2]={0,0};
 		if (txt[i] == '0')
 		{
 			for (int j = 0; j < 3; j++)
